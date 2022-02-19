@@ -5,7 +5,7 @@ description = ""
 authors = ["razevedo1994 <razevedo.contato@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "=3.9.10"
 requests = "^2.27.1"
 ratelimit = "^2.2.1"
 backoff = "^1.11.1"
